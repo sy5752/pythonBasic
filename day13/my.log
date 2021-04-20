@@ -1,0 +1,46 @@
+i am info
+i am warning
+i am error
+i am fatal
+i am info
+i am warning
+i am error
+i am fatal
+i am info
+i am warning
+i am error
+i am fatal
+i am info
+i am warning
+i am error
+i am fatal
+i am info
+i am warning
+i am error
+i am fatal
+i am info
+i am warning
+i am error
+i am fatal
+i am info
+i am warning
+i am error
+i am fatal
+i am info
+i am warning
+i am error
+i am fatal
+2021-01-11 19:49:26,076 - my - DEBUG - i am debug
+2021-01-11 19:49:26,076 - my - INFO - i am info
+2021-01-11 19:49:26,076 - my - WARNING - i am warning
+2021-01-11 19:49:26,076 - my - ERROR - i am error
+2021-01-11 19:49:26,076 - my - CRITICAL - i am fatal
+i am info
+i am warning
+i am error
+i am fatal
+i am debug
+i am info
+i am warning
+i am error
+i am fatal
